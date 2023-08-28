@@ -112,8 +112,6 @@
 
 0x40ae8a196Bcf9ff8EcDdde462961CC4e374d48bc | 0.0 | 2022-07-14 10:07:12 | claim | https://arbiscan.io/address/0x40ae8a196Bcf9ff8EcDdde462961CC4e374d48bc | https://arbiscan.io/tx/0x7f85e9f9450e71091866a6ba60aac223b285c7efa53eb92ab62db07bd16e9f1a
 
-0x40ae8a196Bcf9ff8EcDdde462961CC4e374d48bc | 0.0 | 2022-07-14 10:07:12 | claim | https://arbiscan.io/address/0x40ae8a196Bcf9ff8EcDdde462961CC4e374d48bc | https://arbiscan.io/tx/0x7f85e9f9450e71091866a6ba60aac223b285c7efa53eb92ab62db07bd16e9f1a
-
 0xFb27255e80c18abbF64B9cEBe88d7DD8e36c594d | 0.0 | 2022-07-14 10:09:32 | claim | https://arbiscan.io/address/0xFb27255e80c18abbF64B9cEBe88d7DD8e36c594d | https://arbiscan.io/tx/0x47c7fe997989bf3a3655e3962451a62a487bd6ee0f0a070e4ed7add975cbac7d
 
 0x178d0B2f42cd265ECf32f1C8BBbD6Cb6A92f4370 | 0.0 | 2022-07-14 10:09:32 | claim | https://arbiscan.io/address/0x178d0B2f42cd265ECf32f1C8BBbD6Cb6A92f4370 | https://arbiscan.io/tx/0x6df280b8411ed9046e2cb9b5a5811795cee58b67d2e235ef84556c45add49135
